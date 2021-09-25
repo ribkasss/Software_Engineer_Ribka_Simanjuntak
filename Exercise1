@@ -1,0 +1,6 @@
+print("     OR Truth Table            Result ")
+print("+---------------------------------------+")
+print("A = False, B = False | A OR B =", False or False)
+print("A = False, B = True | A OR B  =", False or True)
+print("A = True, B = False | A OR B  =", True or False)
+print("A = True, B = True | A OR B   =", True or True)
